@@ -4,3 +4,6 @@ activemq-data/
 .classpath
 .project
 .camel
+camel.iml
+.idea
+.ssh
